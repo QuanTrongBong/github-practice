@@ -36,5 +36,3 @@ Tạo một repository Git cục bộ, kết nối với repository trên GitHub
    ```bash
    git push -u origin main
    ```
-
-Sau khi push thành công, mở trang repository GitHub và kiểm tra README đã xuất hiện. Thay `USERNAME/REPOSITORY` bằng tên tài khoản và repository thật trước khi chạy lệnh.
